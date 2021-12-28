@@ -4,4 +4,3 @@ A simple stack implementation in C. See datastructures.c for the actual stack an
 ## Improvements
 - Error Handling
 - Allocating more space to the array when it is full/nearly full
-- 
